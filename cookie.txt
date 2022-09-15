@@ -1,0 +1,19 @@
+Cookie: mid=YugEdgALAAFq3vg85mOFo7MWZKDH; ig_did=BDE45D58-499F-4136-9075-392F72399DFE; csrftoken=gEtUqGTCz9XaHdco4f1BzvlgxfSRRQRz; ds_user_id=10572752325; sessionid=10572752325%3AzPKrhCzx179dnx%3A5%3AAYfiscr6tvbvIl1YexcuAoZ1lBi9NrdcDhHj0dfGEQ; shbid="18620\05410572752325\0541690908725:01f7149237e47acb23e30fadc64188364d98f7f95710739b9dd08d010e82f197d4d14357"; shbts="1659372725\05410572752325\0541690908725:01f756ad9d1a242f67b70e7785681edf393701966f61a08bb763ae3390795d11dce0238f"; datr=xQToYkx-Z6ghS97ia9GBp3kG; rur="RVA\05410572752325\0541690909450:01f7e42a19bbf1d3d84d1cd1bea073d030fd3ac4c251dd177675c1fcf594f936173b262b"
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-Ch-Ua: "Chromium";v="103", ".Not/A)Brand";v="99"
+X-Ig-Www-Claim: hmac.AR3O534jEin0pdeP5BG-wRIv16pPWRvJPTKhYAULOLjNUhuv
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36
+Accept: */*
+X-Asbd-Id: 198387
+X-Csrftoken: gEtUqGTCz9XaHdco4f1BzvlgxfSRRQRz
+Sec-Ch-Ua-Platform: "Windows"
+X-Ig-App-Id: 936619743392459
+Origin: https://www.instagram.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.instagram.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: es-ES,es;q=0.9

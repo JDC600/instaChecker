@@ -33,8 +33,8 @@ def login():
     # two_factor = input("2-Factor:")
     urlLogin = 'https://www.instagram.com/'
     r = requests.get(urlLogin)
-    soup = bs(r.content, 'html.parser')
-    print(soup)
+    # soup = bs(r.content, 'html.parser')
+    print(r)
 
 
 def main():
